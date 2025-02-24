@@ -1,0 +1,17 @@
+node_modules/
+.vscode/
+.env
+.env.dev
+.env.prod
+.env.staging
+.env.*
+package-lock.json
+result_files/
+cardiac_ftp/
+truemd_ftp/
+*DS_Store*
+dumps/
+rxnt/
+.m.env.dev
+dlw-*.txt
+api.http
